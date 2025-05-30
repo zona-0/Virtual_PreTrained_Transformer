@@ -1,0 +1,5 @@
+TO DO LIST:
+    2. Relevansi || Selection Sort
+    3. Letter Confirmation
+    4. Validation
+    5. Repair UI reccomended AI
