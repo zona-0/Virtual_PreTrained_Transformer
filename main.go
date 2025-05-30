@@ -75,6 +75,12 @@ func main() {
 		} else if menu == 9 {
 			modules.Help()
 			modules.BackToMenu()
+		} else if menu == 0 {
+			fmt.Println(">> Thank you for using Vitae Pre-Trained Transformer!")
+			fmt.Println(">> Exiting the system...")
+			break
+		} else {
+			fmt.Println("[System] Pilihan tidak valid. Silakan pilih menu yang tersedia")
 		}
 
 		// } else if menu == 6 {
