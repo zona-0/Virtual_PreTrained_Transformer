@@ -31,7 +31,6 @@ func main() {
 	// fmt.Println("║ >> Loading modules: Resume Engine, CoverLetter Generator...   ║")
 	// fmt.Println("║ >> Welcome to your personal career assistant                  ║")
 	// fmt.Println("╚═══════════════════════════════════════════════════════════════╝")
-	// fmt.Println()
 
 	// SOURCE: https://symbl.cc/en/unicode/blocks/box-drawing/
 	fmt.Println("╔══════════════════════════════════════════════════════════════════╗")
